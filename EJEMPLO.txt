@@ -3,3 +3,6 @@ LUIS ALEJANDRO SOSA ESCOBAR
 
 PROGRAMACION AVANZADA
 
+
+
+echo desde la local
